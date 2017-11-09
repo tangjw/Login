@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Login.iml" filepath="$PROJECT_DIR$/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Login.iml" filepath="$PROJECT_DIR$/.idea/Login.iml" />
+      <module fileurl="file://D:\MyProjects-demo\Login\Login.iml" filepath="D:\MyProjects-demo\Login\Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\MyProjects-demo\Login\app\app.iml" filepath="D:\MyProjects-demo\Login\app\app.iml" />
     </modules>
   </component>
 </project>
